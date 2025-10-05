@@ -129,8 +129,6 @@ install system-wide or a virtualenv of your choice.
 
 ### On Arch Linux *(Original Repository)*
 
-> **Note**: This installs the original `vlaci/openconnect-sso` package, not this fork.
-
 There is an unofficial package available for Arch Linux on
 [AUR](https://aur.archlinux.org/packages/openconnect-sso/). You can use your
 favorite AUR helper to install it:
