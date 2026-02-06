@@ -40,7 +40,7 @@ buildPythonApplication rec {
     colorama
     lxml
     keyring
-    prompt_toolkit
+    prompt-toolkit
     pyxdg
     requests
     structlog
